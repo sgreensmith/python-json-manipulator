@@ -1,0 +1,63 @@
+{
+  "PSI1111111": {
+    "f335/asdasdf/111111111111111": [
+      {
+        "acknowledgements": {
+          "hasRecommendation": "hasRecommendationBLAH",
+          "conflictOfInterest": "conflictOfInterestBLAH",
+          "adheresToInvestmentRecommendationPolicy": "adheresToInvestmentRecommendationPolicyBLAH"
+        },
+        "instruments": [
+          {
+            "instrumentReferenceKey": "instrumentReferenceKeyBLAH",
+            "recommendation": "recommendationBLAH",
+            "timeHorizon": "timeHorizonBLAH",
+            "assetClass": "assetClassEquity",
+            "instrumentIdentifiers": {
+              "symbol": "symbolBLAH",
+              "cusip": "cusipBLAH",
+              "issueName": "issueNameBLAH",
+              "bbTicker": "bbTickerBLAH",
+              "description": "descriptionBLAH",
+              "sedol": "sedolBLAH",
+              "ric": "ricBLAH",
+              "masterId": "masterIdBLAH",
+              "instrumentId": "instrumentIdBLAH",
+              "nonCompositeBbTicker": "nonCompositeBbTickerBLAH",
+              "currency": "currencyBLAH",
+              "exchange": "exchangeBLAH",
+              "countryOfListing": "countryOfListingBLAH",
+              "ubsId": "ubsIdBLAH",
+              "isin": "isinhkl"
+            }
+          }
+        ],
+        "articleID": "farticleID335/asdasdf/asdfdasf/asdfdsaf/adsfdas",
+        "lastModifiedDate": "========today============",
+        "deleted": "deletedBLAH"
+      },
+      {
+        "acknowledgements": {
+          "hasRecommendation": "hasRecommendationBLAH",
+          "conflictOfInterest": "conflictOfInterestBLAH",
+          "adheresToInvestmentRecommendationPolicy": "adheresToInvestmentRecommendationPolicyBLAH"
+        },
+        "instruments": [
+          {
+            "instrumentReferenceKey": "instrumentReferenceKeyBLAH",
+            "recommendation": "recommendationBLAH",
+            "timeHorizon": "timeHorizonBLAH",
+            "assetClass": "assetClassEquity",
+            "instrumentIdentifiers": {
+              "symbol": "symbolBLAH",
+              "isin": "isinhkl"
+            }
+          }
+        ],
+        "articleID": "farticleID335/asdasdf/asdfdasf/asdfdsaf/adsfdas",
+        "lastModifiedDate": "===day after tomorrow===",
+        "deleted": "deletedBLAH"
+      }
+    ]
+  }
+}

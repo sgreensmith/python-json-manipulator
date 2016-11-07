@@ -1,0 +1,230 @@
+{
+  "PSI1111111": {
+    "docRef1": [
+      {
+        "acknowledgements": {
+          "hasRecommendation": "blah",
+          "conflictOfInterest": "blah",
+          "adheresToInvestmentRecommendationsPolicy": "blah"
+        },
+        "instruments": [
+          {
+            "instrumentReferenceKey": "blah blah blah",
+            "recommendation": "blah",
+            "timeHorizon": "blah",
+            "assetClass": "Equity",
+            "instrumentIdentifiers": {
+              "symbol": "blah",
+              "cusip": "blah",
+              "issueName": "blah",
+              "bbTicker": "blah",
+              "description": "blah",
+              "sedol": "blah",
+              "ric": "blah",
+              "masterId": "blah",
+              "instrumentName": "blah",
+              "nonCompositeBbTicker": "blah",
+              "currency": "blah",
+              "exchange": "blah",
+              "countryOfListing": "blah",
+              "ubsId": "blah",
+              "isin": "hkl"
+            }
+          }
+        ],
+        "articleId" : "f335/asdasdf/asdfdasf/asdfdsaf/adsfdas",
+        "lastModifiedDate": "today",
+        "deleted": "blah"
+      }
+    ],
+    "docRef2": [
+      {
+        "acknowledgements": {
+          "hasRecommendation": "blah",
+          "conflictOfInterest": "blah",
+          "adheresToInvestmentRecommendationsPolicy": "blah"
+        },
+        "instruments": [
+          {
+            "instrumentReferenceKey": "blah blah blah",
+            "recommendation": "blah",
+            "timeHorizon": "blah",
+            "assetClass": "Equity",
+            "instrumentIdentifiers": {
+              "symbol": "blah",
+              "cusip": "blah",
+              "issueName": "blah",
+              "bbTicker": "blah",
+              "description": "blah",
+              "sedol": "blah",
+              "ric": "blah",
+              "masterId": "blah",
+              "instrumentName": "blah",
+              "nonCompositeBbTicker": "blah",
+              "currency": "blah",
+              "exchange": "blah",
+              "countryOfListing": "blah",
+              "ubsId": "blah",
+              "isin": "hkl"
+            }
+          }
+        ],
+        "articleId" : "f335/asdasdf/asdfdasf/asdfdsaf/adsfdas",
+        "lastModifiedDate": "today",
+        "deleted": "blah"
+      }
+    ]
+  },
+  "PSI22222222": {
+    "docRef3": [
+      {
+        "acknowledgements": {
+          "hasRecommendation": "blah",
+          "conflictOfInterest": "blah",
+          "adheresToInvestmentRecommendationsPolicy": "blah"
+        },
+        "instruments": [
+          {
+            "instrumentReferenceKey": "blah blah blah",
+            "recommendation": "blah",
+            "timeHorizon": "blah",
+            "assetClass": "Equity",
+            "instrumentIdentifiers": {
+              "symbol": "blah",
+              "cusip": "blah",
+              "issueName": "blah",
+              "bbTicker": "blah",
+              "description": "blah",
+              "sedol": "blah",
+              "ric": "blah",
+              "masterId": "blah",
+              "instrumentName": "blah",
+              "nonCompositeBbTicker": "blah",
+              "currency": "blah",
+              "exchange": "blah",
+              "countryOfListing": "blah",
+              "ubsId": "blah",
+              "isin": "hkl"
+            }
+          }
+        ],
+        "articleId" : "f335/asdasdf/asdfdasf/asdfdsaf/adsfdas",
+        "lastModifiedDate": "today",
+        "deleted": "blah"
+      }
+    ],
+    "docRef4": [
+      {
+        "acknowledgements": {
+          "hasRecommendation": "blah",
+          "conflictOfInterest": "blah",
+          "adheresToInvestmentRecommendationsPolicy": "blah"
+        },
+        "instruments": [
+          {
+            "instrumentReferenceKey": "blah blah blah",
+            "recommendation": "blah",
+            "timeHorizon": "blah",
+            "assetClass": "Equity",
+            "instrumentIdentifiers": {
+              "symbol": "blah",
+              "cusip": "blah",
+              "issueName": "blah",
+              "bbTicker": "blah",
+              "description": "blah",
+              "sedol": "blah",
+              "ric": "blah",
+              "masterId": "blah",
+              "instrumentName": "blah",
+              "nonCompositeBbTicker": "blah",
+              "currency": "blah",
+              "exchange": "blah",
+              "countryOfListing": "blah",
+              "ubsId": "blah",
+              "isin": "hkl"
+            }
+          }
+        ],
+        "articleId" : "f335/asdasdf/asdfdasf/asdfdsaf/adsfdas",
+        "lastModifiedDate": "today",
+        "deleted": "blah"
+      }
+    ]
+  },
+  "PSI33333333": {
+    "docRef5": [
+      {
+        "acknowledgements": {
+          "hasRecommendation": "blah",
+          "conflictOfInterest": "blah",
+          "adheresToInvestmentRecommendationsPolicy": "blah"
+        },
+        "instruments": [
+          {
+            "instrumentReferenceKey": "blah blah blah",
+            "recommendation": "blah",
+            "timeHorizon": "blah",
+            "assetClass": "Equity",
+            "instrumentIdentifiers": {
+              "symbol": "blah",
+              "cusip": "blah",
+              "issueName": "blah",
+              "bbTicker": "blah",
+              "description": "blah",
+              "sedol": "blah",
+              "ric": "blah",
+              "masterId": "blah",
+              "instrumentName": "blah",
+              "nonCompositeBbTicker": "blah",
+              "currency": "blah",
+              "exchange": "blah",
+              "countryOfListing": "blah",
+              "ubsId": "blah",
+              "isin": "hkl"
+            }
+          }
+        ],
+        "articleId" : "f335/asdasdf/asdfdasf/asdfdsaf/adsfdas",
+        "lastModifiedDate": "today",
+        "deleted": "blah"
+      }
+    ],
+    "docRef6": [
+      {
+        "acknowledgements": {
+          "hasRecommendation": "blah",
+          "conflictOfInterest": "blah",
+          "adheresToInvestmentRecommendationsPolicy": "blah"
+        },
+        "instruments": [
+          {
+            "instrumentReferenceKey": "blah blah blah",
+            "recommendation": "blah",
+            "timeHorizon": "blah",
+            "assetClass": "Equity",
+            "instrumentIdentifiers": {
+              "symbol": "blah",
+              "cusip": "blah",
+              "issueName": "blah",
+              "bbTicker": "blah",
+              "description": "blah",
+              "sedol": "blah",
+              "ric": "blah",
+              "masterId": "blah",
+              "instrumentName": "blah",
+              "nonCompositeBbTicker": "blah",
+              "currency": "blah",
+              "exchange": "blah",
+              "countryOfListing": "blah",
+              "ubsId": "blah",
+              "isin": "hkl"
+            }
+          }
+        ],
+        "articleId" : "f335/asdasdf/asdfdasf/asdfdsaf/adsfdas",
+        "lastModifiedDate": "today",
+        "deleted": "blah"
+      }
+    ]
+  }
+}

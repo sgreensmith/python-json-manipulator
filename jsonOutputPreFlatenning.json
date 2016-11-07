@@ -1,0 +1,194 @@
+{
+"adheresToInvestmentRecommendationPolicy": "adheresToInvestmentRecommendationPolicyBLAH",
+"articleID": "farticleID335/asdasdf/asdfdasf/asdfdsaf/adsfdas",
+"conflictOfInterest": "conflictOfInterestBLAH",
+"deleted": "deletedBLAH",
+"guid": "PSI1111111",
+"hasRecommendation": "hasRecommendationBLAH",
+"instruments": [
+{
+"assetClass": "assetClassEquity",
+"instrumentIdentifiers": {
+"bbTicker": "bbTickerBLAH",
+"countryOfListing": "countryOfListingBLAH",
+"currency": "currencyBLAH",
+"cusip": "cusipBLAH",
+"description": "descriptionBLAH",
+"exchange": "exchangeBLAH",
+"instrumentId": "instrumentIdBLAH",
+"isin": "isinhkl",
+"issueName": "issueNameBLAH",
+"masterId": "masterIdBLAH",
+"nonCompositeBbTicker": "nonCompositeBbTickerBLAH",
+"ric": "ricBLAH",
+"sedol": "sedolBLAH",
+"symbol": "symbolBLAH",
+"ubsId": "ubsIdBLAH"
+},
+"instrumentReferenceKey": "instrumentReferenceKeyBLAH",
+"recommendation": "recommendationBLAH",
+"timeHorizon": "timeHorizonBLAH"
+}
+],
+"lastModifiedDate": "today",
+"pubRef": "f335/asdasdf/111111111111111"
+}
+{
+"adheresToInvestmentRecommendationPolicy": "adheresToInvestmentRecommendationPolicyBLAH",
+"articleID": "farticleID335/asdasdf/asdfdasf/asdfdsaf/adsfdas",
+"conflictOfInterest": "conflictOfInterestBLAH",
+"deleted": "deletedBLAH",
+"guid": "PSI1111111",
+"hasRecommendation": "hasRecommendationBLAH",
+"instruments": [
+{
+"assetClass": "assetClassEquity",
+"instrumentIdentifiers": {
+"isin": "isinhkl",
+"symbol": "symbolBLAH"
+},
+"instrumentReferenceKey": "instrumentReferenceKeyBLAH",
+"recommendation": "recommendationBLAH",
+"timeHorizon": "timeHorizonBLAH"
+},
+{
+"assetClass": "assetClassEquity2",
+"instrumentIdentifiers": {
+"isin": "isinhkl2",
+"symbol": "symbolBLAH2"
+},
+"instrumentReferenceKey": "instrumentReferenceKeyBLAH2",
+"recommendation": "recommendationBLAH2",
+"timeHorizon": "timeHorizonBLAH2"
+}
+],
+"lastModifiedDate": "===day after tomorrow===",
+"pubRef": "f335/asdasdf/111111111111111"
+}
+{
+"adheresToInvestmentRecommendationPolicy": "adheresToInvestmentRecommendationPolicyBLAH",
+"articleID": "farticleID335/asdasdf/asdfdasf/asdfdsaf/adsfdas",
+"conflictOfInterest": "conflictOfInterestBLAH",
+"deleted": "deletedBLAH",
+"guid": "PSI1111111",
+"hasRecommendation": "hasRecommendationBLAH",
+"instruments": [
+{
+"assetClass": "assetClassEquity",
+"instrumentIdentifiers": {
+"bbTicker": "bbTickerBLAH",
+"countryOfListing": "countryOfListingBLAH",
+"currency": "currencyBLAH",
+"cusip": "cusipBLAH",
+"description": "descriptionBLAH",
+"exchange": "exchangeBLAH",
+"instrumentId": "instrumentIdBLAH",
+"isin": "isinhkl",
+"issueName": "issueNameBLAH",
+"masterId": "masterIdBLAH",
+"nonCompositeBbTicker": "nonCompositeBbTickerBLAH",
+"ric": "ricBLAH",
+"sedol": "sedolBLAH",
+"symbol": "symbolBLAH",
+"ubsId": "ubsIdBLAH"
+},
+"instrumentReferenceKey": "instrumentReferenceKeyBLAH",
+"recommendation": "recommendationBLAH",
+"timeHorizon": "timeHorizonBLAH"
+}
+],
+"lastModifiedDate": "lastModifiedDateBLAH",
+"pubRef": "f335/asdasdf/2222222222222"
+}
+{
+"adheresToInvestmentRecommendationPolicy": "adheresToInvestmentRecommendationPolicyBLAH",
+"articleID": "farticleID335/asdasdf/asdfdasf/asdfdsaf/adsfdas",
+"conflictOfInterest": "conflictOfInterestBLAH",
+"deleted": "deletedBLAH",
+"guid": "PSI2222222",
+"hasRecommendation": "hasRecommendationBLAH",
+"instruments": [
+{
+"assetClass": "assetClassEquity",
+"instrumentIdentifiers": {
+"bbTicker": "bbTickerBLAH",
+"countryOfListing": "countryOfListingBLAH",
+"currency": "currencyBLAH",
+"cusip": "cusipBLAH",
+"description": "descriptionBLAH",
+"exchange": "exchangeBLAH",
+"instrumentId": "instrumentIdBLAH",
+"isin": "isinhkl",
+"issueName": "issueNameBLAH",
+"masterId": "masterIdBLAH",
+"nonCompositeBbTicker": "nonCompositeBbTickerBLAH",
+"ric": "ricBLAH",
+"sedol": "sedolBLAH",
+"symbol": "symbolBLAH",
+"ubsId": "ubsIdBLAH"
+},
+"instrumentReferenceKey": "instrumentReferenceKeyBLAH",
+"recommendation": "recommendationBLAH",
+"timeHorizon": "timeHorizonBLAH"
+}
+],
+"lastModifiedDate": "today",
+"pubRef": "f335/asdasdf/111111111111111"
+}
+{
+"adheresToInvestmentRecommendationPolicy": "adheresToInvestmentRecommendationPolicyBLAH",
+"articleID": "farticleID335/asdasdf/asdfdasf/asdfdsaf/adsfdas",
+"conflictOfInterest": "conflictOfInterestBLAH",
+"deleted": "deletedBLAH",
+"guid": "PSI2222222",
+"hasRecommendation": "hasRecommendationBLAH",
+"instruments": [
+{
+"assetClass": "assetClassEquity",
+"instrumentIdentifiers": {
+"isin": "isinhkl",
+"symbol": "symbolBLAH"
+},
+"instrumentReferenceKey": "instrumentReferenceKeyBLAH",
+"recommendation": "recommendationBLAH",
+"timeHorizon": "timeHorizonBLAH"
+}
+],
+"lastModifiedDate": "===day after tomorrow===",
+"pubRef": "f335/asdasdf/111111111111111"
+}
+{
+"adheresToInvestmentRecommendationPolicy": "adheresToInvestmentRecommendationPolicyBLAH",
+"articleID": "farticleID335/asdasdf/asdfdasf/asdfdsaf/adsfdas",
+"conflictOfInterest": "conflictOfInterestBLAH",
+"deleted": "deletedBLAH",
+"guid": "PSI2222222",
+"hasRecommendation": "hasRecommendationBLAH",
+"instruments": [
+{
+"assetClass": "assetClassEquity",
+"instrumentIdentifiers": {
+"bbTicker": "bbTickerBLAH",
+"countryOfListing": "countryOfListingBLAH",
+"currency": "currencyBLAH",
+"cusip": "cusipBLAH",
+"description": "descriptionBLAH",
+"exchange": "exchangeBLAH",
+"instrumentId": "instrumentIdBLAH",
+"isin": "isinhkl",
+"issueName": "issueNameBLAH",
+"masterId": "masterIdBLAH",
+"nonCompositeBbTicker": "nonCompositeBbTickerBLAH",
+"ric": "ricBLAH",
+"sedol": "sedolBLAH",
+"symbol": "symbolBLAH",
+"ubsId": "ubsIdBLAH"
+},
+"instrumentReferenceKey": "instrumentReferenceKeyBLAH",
+"recommendation": "recommendationBLAH",
+"timeHorizon": "timeHorizonBLAH"
+}
+],
+"lastModifiedDate": "lastModifiedDateBLAH",
+"pubRef": "f335/asdasdf/2222222222222"
+}

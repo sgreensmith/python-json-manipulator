@@ -1,0 +1,6 @@
+lib/
+include/
+bin/
+local/
+.idea/
+*.iml
